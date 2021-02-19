@@ -1,0 +1,17 @@
+
+Build process:
+- edit in My_Website
+- In My_Website root, run 'hugo'
+- cd public
+- git add .
+- git commit ...
+- git push
+- refresh page
+
+(Maybe) after changing domain:
+- Edit config/_default/config.toml, baseurl = "https://yycdavid.github.io/"
+
+
+Unused pool:
+- in content/authors/admin/_index.md
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
