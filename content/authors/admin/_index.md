@@ -17,7 +17,8 @@ bio: bioxxx
 
 # Interests to show in About widget
 interests:
-- xxx
+- Neurosymbolic methods
+- Programming language + machine learning
 
 # Education to show in About widget
 education:
@@ -55,7 +56,12 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-xxx
+I am a third-year Computer Science PhD student at MIT, advised by [Martin Rinard](http://people.csail.mit.edu/rinard/).
+My research interest lies in the intersection between programming languages and machine learning.
+My recent work focuses on developing neurosymbolic techniques that combine neural and probabilistic methods with program synthesis.
+
+Prior to joining MIT, I finished my B.A. and M.Eng. in Information Engineering at University of Cambridge.
+In summer 2020, I interned at Google Brain on systems for ML.
